@@ -34,4 +34,3 @@ The backend exposes:
 - `POST /api/auth/logout`
 - `GET /api/bookings`
 - `POST /api/bookings`
-```
